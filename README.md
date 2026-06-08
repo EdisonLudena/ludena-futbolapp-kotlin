@@ -65,10 +65,32 @@ Para entornos de desarrollo puedes utilizar las siguientes credenciales:
 Agrega aquí las capturas de la aplicación:
 
 ```markdown
-![Login](https://github.com/user-attachments/assets/e91130b0-8607-40c0-9819-a47033987dd3)
+<img width="335" height="455" alt="image" src="https://github.com/user-attachments/assets/0455cc9d-f181-4fa7-a872-11530b6ae4de" />
+<img width="192" height="339" alt="image" src="https://github.com/user-attachments/assets/52f8449f-7133-4fc9-8d4e-be5e81a5b483" />
+<img width="191" height="341" alt="image" src="https://github.com/user-attachments/assets/c6e04741-68a1-444f-8c92-7c7c3d760ec0" />
+<img width="259" height="412" alt="image" src="https://github.com/user-attachments/assets/e693e8da-70de-4c40-9774-35a2fcf1e992" />
+<img width="296" height="415" alt="image" src="https://github.com/user-attachments/assets/72547704-fab9-4b45-8301-58ce9366428c" />
+<img width="299" height="418" alt="image" src="https://github.com/user-attachments/assets/606023c9-79cb-4e22-b9d3-e2bb926f2cd9" />
+<img width="259" height="421" alt="image" src="https://github.com/user-attachments/assets/f0ca3d27-789a-448d-9b2b-df79834c5a33" />
+<img width="293" height="232" alt="image" src="https://github.com/user-attachments/assets/81836e2d-6494-4985-ba95-e277f73cbb8b" />
+<img width="204" height="230" alt="image" src="https://github.com/user-attachments/assets/87c7ea7c-83ff-498d-a85f-977829a6590c" />
+<img width="186" height="232" alt="image" src="https://github.com/user-attachments/assets/2370c079-0aa2-4cd0-9ed7-7f259e8b3806" />
+<img width="329" height="346" alt="image" src="https://github.com/user-attachments/assets/be4f1619-ef70-4cd1-866f-2e55b25d8a76" />
+<img width="256" height="346" alt="image" src="https://github.com/user-attachments/assets/ec250c65-1940-434c-a442-aeba496a06da" />
+<img width="186" height="351" alt="image" src="https://github.com/user-attachments/assets/97164b97-ab2c-4ef6-bfda-6d2731ec34ff" />
+<img width="163" height="322" alt="image" src="https://github.com/user-attachments/assets/929cb8b9-d853-40cb-a4f7-8cffc05b51c4" />
+<img width="199" height="330" alt="image" src="https://github.com/user-attachments/assets/787aa0bb-f2bb-4e9b-80ee-e3c9fb95014a" />
+<img width="338" height="331" alt="image" src="https://github.com/user-attachments/assets/9c767a1a-7813-4002-833c-8ee825f1d850" />
+<img width="307" height="331" alt="image" src="https://github.com/user-attachments/assets/7840ff1e-5906-4739-a3f8-1acc46133546" />
+<img width="311" height="218" alt="image" src="https://github.com/user-attachments/assets/3a4572e9-5944-4707-b4d4-4f9724b60929" />
+<img width="448" height="219" alt="image" src="https://github.com/user-attachments/assets/8fdaf9c6-254e-4065-a3b5-625b20d62284" />
+<img width="414" height="292" alt="image" src="https://github.com/user-attachments/assets/2cc0869b-bfef-4c76-b070-515193e39c84" />
+<img width="294" height="640" alt="image" src="https://github.com/user-attachments/assets/0ffdda47-a0f6-40cf-b0c1-30c31f92a6fb" />
+<img width="464" height="667" alt="image" src="https://github.com/user-attachments/assets/dc44b8fa-eab7-4564-b1a5-15a6019c69e7" />
 
-![Dashboard](screenshots/dashboard.png)
-![Jugadores](screenshots/jugadores.png)
+
+
+
 ```
 
 ---
@@ -108,9 +130,6 @@ Seguimiento de métricas físicas y técnicas:
 * Velocidad
 * Calificaciones
 
-### Asistencia
-
-Control de asistencia a entrenamientos y partidos.
 
 ---
 
