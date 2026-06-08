@@ -8,6 +8,22 @@ Código fuente:
 
 https://github.com/EdisonLudena/ludena-futbolapp-kotlin.git
 
+## Backend API
+
+La aplicación consume los servicios REST del backend Django a través de la siguiente URL base:
+
+```text
+https://rubdown-relearn-latter.ngrok-free.dev/api/
+```
+
+### Configuración
+
+Actualiza la constante `BASE_URL` en tu proyecto:
+
+```kotlin
+const val BASE_URL = "https://rubdown-relearn-latter.ngrok-free.dev/api/"
+```
+
 ---
 
 ## Descripción de la Aplicación
