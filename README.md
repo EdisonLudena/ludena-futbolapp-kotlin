@@ -65,7 +65,7 @@ Para entornos de desarrollo puedes utilizar las siguientes credenciales:
 Agrega aquí las capturas de la aplicación:
 
 ```markdown
-<img width="464" height="667" alt="image" src="https://github.com/user-attachments/assets/e91130b0-8607-40c0-9819-a47033987dd3" />
+![Login](https://github.com/user-attachments/assets/e91130b0-8607-40c0-9819-a47033987dd3)
 
 ![Dashboard](screenshots/dashboard.png)
 ![Jugadores](screenshots/jugadores.png)
