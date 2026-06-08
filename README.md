@@ -50,9 +50,13 @@ const val BASE_URL = "http://10.0.2.2:8000/api/"
 
 Para entornos de desarrollo puedes utilizar las siguientes credenciales:
 
-**Usuario:** `coach_test`
+**Usuario:** `coach`
 
-**Contraseña:** `PasswordSeguro123`
+**Contraseña:** `coach123`
+
+**Usuario:** `scout`
+
+**Contraseña:** `scout123`
 
 ---
 
@@ -61,7 +65,8 @@ Para entornos de desarrollo puedes utilizar las siguientes credenciales:
 Agrega aquí las capturas de la aplicación:
 
 ```markdown
-![Login](screenshots/login.png)
+<img width="464" height="667" alt="image" src="https://github.com/user-attachments/assets/e91130b0-8607-40c0-9819-a47033987dd3" />
+
 ![Dashboard](screenshots/dashboard.png)
 ![Jugadores](screenshots/jugadores.png)
 ```
